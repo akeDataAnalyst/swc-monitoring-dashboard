@@ -1,0 +1,181 @@
+site_id,woreda,kebele,species,area_ha,households_reached,established_year,latitude,longitude,contact_person,phone,date_recorded
+FOD-001,Kindo Didaye,Dara Zuria,Leucaena leucocephala,0.68,127,2025,6.617336,37.559147,Fantanesh Tsegaye,+2519187875844,2025-05-09
+FOD-002,Boloso Bombe,Bombe,Susban (Stylosanthes guianensis),0.68,50,2023,6.87955,37.91349,Getachew Mesfin,+2519381524246,2023-03-15
+FOD-003,Kindo Koysha,Bosa,Tree Lucerne (Chamaecytisus palmensis),2.76,67,2023,6.85591,37.613782,Selamawit Berhanu,+2519632747018,2025-07-03
+FOD-004,Kindo Didaye,Dara Zuria,Tree Lucerne (Chamaecytisus palmensis),1.08,62,2022,6.637476,37.682332,Konjit Mamo,+2519859580181,2025-06-15
+FOD-005,Boloso Bombe,Ajora,Sesbania sesban,1.63,39,2023,6.997916,37.939388,Berhanu Getachew,+2519434186698,2024-10-30
+FOD-006,Damot Pulasa,Wosh Gale Zuria,Brachiaria hybrid (Mulato II),1.61,132,2022,6.974593,37.898848,Mahilet Tamirat,+2519158042688,2023-05-02
+FOD-007,Offa,Shafe Zuria,Napier grass (Pennisetum purpureum),1.44,27,2024,6.879762,37.48609,Wubalem Mamo,+2519681983053,2022-07-26
+FOD-008,Boloso Bombe,Wollo Zuria,Susban (Stylosanthes guianensis),1.86,130,2022,6.903275,37.992624,Dawit Zewde,+2519284001472,2022-09-23
+FOD-009,Sodo Zuria,Gacheno Zuria,Tree Lucerne (Chamaecytisus palmensis),2.31,31,2022,6.864327,37.781507,Tigist Tamirat,+2519854858715,2022-05-03
+FOD-010,Damot Gale,Ade Damota,Napier grass (Pennisetum purpureum),2.65,62,2023,6.94071,37.83089,Habtamu Yohannes,+2519337820810,2023-10-19
+FOD-011,Kindo Didaye,Kodo Zuria,Leucaena leucocephala,0.65,59,2023,6.615934,37.531784,Firehiwot Kebede,+2519686059388,2023-09-11
+FOD-012,Offa,Wollo Sefer,Desho grass (Pennisetum pedicellatum),2.59,22,2023,6.851648,37.551729,Abebe Hailu,+2519822928467,2024-01-10
+FOD-013,Kindo Didaye,Kodo,Sesbania sesban,1.43,84,2025,6.613437,37.541817,Birhanu Alemayehu,+2519182856650,2024-08-25
+FOD-014,Sodo Zuria,Shento Zuria,Susban (Stylosanthes guianensis),1.92,78,2022,6.832786,37.845041,Solomon Negash,+2519735209275,2024-09-12
+FOD-015,Kindo Didaye,Dara Zuria,Susban (Stylosanthes guianensis),1.81,25,2023,6.694091,37.566332,Yetemwork Fekadu,+2519715975745,2024-10-08
+FOD-016,Humbo,Zaba Zuria,Susban (Stylosanthes guianensis),0.17,105,2024,6.714699,37.788283,Getachew Tadesse,+2519235209459,2025-10-10
+FOD-017,Kindo Didaye,Shama Zuria,Desho grass (Pennisetum pedicellatum),1.42,65,2025,6.728363,37.588973,Assefa Gebre,+2519582707138,2024-04-14
+FOD-018,Damot Gale,Zala Shasha,Desho grass (Pennisetum pedicellatum),2.01,51,2024,7.006504,37.818449,Eyerusalem Wondimu,+2519937400981,2024-09-03
+FOD-019,Humbo,Hobicha Zuria,Rhodes grass (Chloris gayana),0.37,43,2023,6.784696,37.752714,Worku Yimer,+2519415307880,2025-05-22
+FOD-020,Damot Pulasa,Kodo Gawulia,Leucaena leucocephala,1.21,83,2023,6.977028,38.022064,Etsehiwot Alemayehu,+2519950324439,2024-02-29
+FOD-021,Damot Pulasa,Zaba Zuria,Desho grass (Pennisetum pedicellatum),1.02,41,2023,7.046516,37.856498,Girma Birhanu,+2519345584028,2025-04-01
+FOD-022,Damot Gale,Shola Kodo,Napier grass (Pennisetum purpureum),1.37,22,2023,6.970611,37.76977,Amanuel Assefa,+2519161859220,2022-12-08
+FOD-023,Kindo Koysha,Dara Zuria,Tree Lucerne (Chamaecytisus palmensis),1.09,31,2023,6.777551,37.7111,Assefa Birhanu,+2519769794627,2022-09-20
+FOD-024,Sodo Zuria,Kodo Gawulia,Brachiaria hybrid (Mulato II),1.65,79,2022,6.824391,37.779696,Yeshi Tadesse,+2519525572669,2024-02-16
+FOD-025,Offa,Wareza,Sesbania sesban,1.91,93,2024,6.811958,37.588724,Liya Bekele,+2519216285946,2023-11-10
+FOD-026,Kindo Koysha,Zaba,Susban (Stylosanthes guianensis),0.28,57,2022,6.822965,37.710737,Desta Hailu,+2519723876524,2023-11-08
+FOD-027,Sodo Zuria,Gununa,Tree Lucerne (Chamaecytisus palmensis),1.91,32,2024,6.876137,37.828645,Mulugeta Alemayehu,+2519957359797,2025-06-26
+FOD-028,Sodo Zuria,Sodo Zuria,Napier grass (Pennisetum purpureum),0.38,18,2025,6.845175,37.814513,Fantanesh Melese,+2519818960367,2022-02-18
+FOD-029,Damot Gale,Kodo,Brachiaria hybrid (Mulato II),1.91,92,2025,7.007676,37.857061,Serkalem Tsegaye,+2519974512136,2024-08-10
+FOD-030,Kindo Didaye,Bela Zuria,Susban (Stylosanthes guianensis),0.51,29,2024,6.611133,37.683742,Worku Negash,+2519290515453,2024-03-23
+FOD-031,Humbo,Bendo Zuria,Sesbania sesban,1.17,20,2022,6.818817,37.691846,Mesfin Mesfin,+2519863041624,2022-03-08
+FOD-032,Damot Pulasa,Bela Zuria,Rhodes grass (Chloris gayana),2.08,19,2025,7.076296,37.804386,Desta Assefa,+2519342600969,2024-07-24
+FOD-033,Damot Gale,Gara Godo,Napier grass (Pennisetum purpureum),0.29,103,2023,7.059969,37.833978,Mulugeta Tamirat,+2519646737584,2024-01-16
+FOD-034,Humbo,Abela Zuria,Sesbania sesban,2.24,40,2025,6.7391,37.825636,Yetemwork Yimer,+2519843238387,2024-11-19
+FOD-035,Humbo,Bendo,Leucaena leucocephala,0.37,110,2024,6.695297,37.746551,Birhanu Endale,+2519353782938,2025-08-05
+FOD-036,Boloso Bombe,Gara Zuria,Susban (Stylosanthes guianensis),0.78,117,2022,6.922442,37.8581,Firehiwot Eshetu,+2519767780703,2023-04-12
+FOD-037,Sodo Zuria,Shola Kodo,Sesbania sesban,2.71,34,2025,6.914809,37.843103,Tesfaye Alemayehu,+2519372779457,2025-02-10
+FOD-038,Damot Pulasa,Kodo Zuria,Leucaena leucocephala,2.29,49,2025,7.055688,37.883063,Tesfaye Eshetu,+2519514131906,2024-02-25
+FOD-039,Offa,Gera,Susban (Stylosanthes guianensis),1.47,91,2025,6.861268,37.505558,Elias Berhanu,+2519294582127,2025-06-07
+FOD-040,Boloso Sore,Bokara Zuria,Tree Lucerne (Chamaecytisus palmensis),1.91,63,2024,6.830477,37.710513,Girma Lemma,+2519743170379,2023-05-25
+FOD-041,Kindo Koysha,Belela Zuria,Leucaena leucocephala,1.62,44,2022,6.887038,37.719781,Almaz Desta,+2519522763734,2024-05-16
+FOD-042,Boloso Sore,Bokara,Rhodes grass (Chloris gayana),0.76,42,2022,6.920401,37.770036,Tadesse Yohannes,+2519735096257,2023-05-17
+FOD-043,Damot Gale,Kodo,Desho grass (Pennisetum pedicellatum),0.54,127,2024,7.016761,37.822376,Kassahun Kebede,+2519734716183,2025-01-09
+FOD-044,Kindo Koysha,Bello,Susban (Stylosanthes guianensis),1.76,26,2023,6.835526,37.600247,Almaz Melese,+2519831764659,2024-06-04
+FOD-045,Damot Pulasa,Ade Damota Zuria,Tree Lucerne (Chamaecytisus palmensis),2.58,88,2025,7.00725,37.859627,Kebede Negash,+2519611959366,2025-09-16
+FOD-046,Boloso Sore,Sholoka,Rhodes grass (Chloris gayana),2.01,111,2022,6.883035,37.794067,Tiruwork Mesfin,+2519662662522,2022-04-13
+FOD-047,Damot Pulasa,Waraza Lasho,Leucaena leucocephala,1.53,40,2023,7.095656,37.902341,Mulugeta Worku,+2519718743562,2024-10-07
+FOD-048,Sodo Zuria,Gara Godo,Sesbania sesban,0.41,61,2022,6.861675,37.809124,Amanuel Yohannes,+2519223064664,2024-09-24
+FOD-049,Boloso Bombe,Dubana,Tree Lucerne (Chamaecytisus palmensis),2.53,23,2024,6.883729,37.87817,Kebede Tamirat,+2519616349972,2022-03-21
+FOD-050,Damot Gale,Demboya,Leucaena leucocephala,1.5,32,2023,7.037038,37.868113,Mesfin Yimer,+2519931767807,2025-02-02
+FOD-051,Boloso Sore,Wara,Susban (Stylosanthes guianensis),0.69,86,2022,6.849272,37.757775,Worku Hailu,+2519291014976,2023-06-30
+FOD-052,Boloso Bombe,Wollo Zuria,Leucaena leucocephala,1.32,81,2023,6.987976,37.980805,Etsehiwot Negash,+2519397439178,2024-03-09
+FOD-053,Damot Pulasa,Shanto Zuria,Rhodes grass (Chloris gayana),0.87,34,2023,7.04218,37.917475,Negussie Endale,+2519178048902,2023-07-15
+FOD-054,Kindo Koysha,Bello,Brachiaria hybrid (Mulato II),1.35,59,2023,6.76988,37.602342,Negussie Lemma,+2519755055000,2025-08-28
+FOD-055,Offa,Shafe Zuria,Napier grass (Pennisetum purpureum),1.23,131,2024,6.920881,37.644866,Mahilet Fekadu,+2519262422400,2022-01-08
+FOD-056,Sodo Zuria,Shento Zuria,Brachiaria hybrid (Mulato II),2.42,85,2024,6.882493,37.73204,Abebe Desta,+2519628653325,2022-12-22
+FOD-057,Humbo,Hobicha,Rhodes grass (Chloris gayana),1.2,131,2022,6.698834,37.837895,Mahilet Yohannes,+2519288296169,2024-01-04
+FOD-058,Kindo Didaye,Bela Zuria,Susban (Stylosanthes guianensis),1.72,109,2024,6.607083,37.565579,Tesfaye Hailu,+2519224535880,2023-08-09
+FOD-059,Offa,Wareza Zuria,Sesbania sesban,0.55,26,2022,6.868168,37.506055,Habtamu Mesfin,+2519619098863,2023-01-03
+FOD-060,Damot Pulasa,Shanto Zuria,Brachiaria hybrid (Mulato II),1.93,41,2023,7.00483,37.874175,Yohannes Negash,+2519549185946,2023-06-17
+FOD-061,Damot Gale,Demboya,Leucaena leucocephala,2.51,106,2025,6.999678,37.944821,Roman Eshetu,+2519228939124,2024-10-03
+FOD-062,Damot Pulasa,Kodo Zuria,Rhodes grass (Chloris gayana),2.17,29,2022,6.99456,37.938305,Girma Getachew,+2519997543096,2023-04-11
+FOD-063,Sodo Zuria,Kela,Leucaena leucocephala,0.76,112,2025,6.826942,37.878689,Assefa Assefa,+2519116202700,2025-04-02
+FOD-064,Offa,Kercheche,Leucaena leucocephala,1.41,103,2025,6.870885,37.472562,Serkalem Fekadu,+2519995207905,2025-07-26
+FOD-065,Boloso Sore,Bokara,Napier grass (Pennisetum purpureum),2.48,111,2025,6.826637,37.791908,Negussie Berhanu,+2519532976057,2023-08-14
+FOD-066,Kindo Didaye,Kodo Zuria,Sesbania sesban,1.85,24,2024,6.710921,37.584864,Selamawit Hailu,+2519557825749,2023-10-23
+FOD-067,Damot Gale,Zala Shasha,Brachiaria hybrid (Mulato II),1.27,130,2024,7.009092,37.932487,Tsegaye Assefa,+2519562409667,2024-03-27
+FOD-068,Boloso Sore,Gununa,Desho grass (Pennisetum pedicellatum),1.49,84,2024,6.902992,37.714349,Solomon Assefa,+2519876091510,2025-09-06
+FOD-069,Kindo Didaye,Dara,Napier grass (Pennisetum purpureum),2.62,69,2025,6.732462,37.663026,Firehiwot Tadesse,+2519857692294,2022-02-21
+FOD-070,Offa,Wollo Sefer,Brachiaria hybrid (Mulato II),2.57,36,2024,6.919015,37.591662,Yeshi Getachew,+2519191957072,2024-05-08
+FOD-071,Kindo Koysha,Kucha Zuria,Sesbania sesban,0.59,110,2025,6.886039,37.731952,Bizunesh Tsegaye,+2519463068450,2023-10-09
+FOD-072,Boloso Sore,Dubana,Desho grass (Pennisetum pedicellatum),0.85,87,2025,6.864484,37.703263,Serkalem Zewde,+2519244018249,2022-06-07
+FOD-073,Kindo Koysha,Kucha Zuria,Napier grass (Pennisetum purpureum),0.62,22,2022,6.85539,37.744457,Fitsum Girma,+2519465561643,2024-05-05
+FOD-074,Kindo Didaye,Bela,Napier grass (Pennisetum purpureum),2.11,134,2022,6.661823,37.523843,Fantanesh Gebre,+2519519517425,2023-12-16
+FOD-075,Boloso Sore,Basketo Zuria,Napier grass (Pennisetum purpureum),0.24,106,2025,6.873419,37.729979,Zewditu Worku,+2519762038102,2022-06-14
+FOD-076,Damot Pulasa,Gununo,Rhodes grass (Chloris gayana),2.37,58,2025,6.988012,37.822805,Fantanesh Hailu,+2519361436740,2022-12-28
+FOD-077,Damot Gale,Gara,Brachiaria hybrid (Mulato II),0.78,128,2022,7.023551,37.837597,Fitsum Hailu,+2519549854446,2022-09-28
+FOD-078,Damot Gale,Kodo Gawulia,Rhodes grass (Chloris gayana),2.34,115,2022,7.015978,37.843411,Tiruwork Zewde,+2519430886280,2022-11-11
+FOD-079,Offa,Kercheche Zuria,Tree Lucerne (Chamaecytisus palmensis),0.97,23,2024,6.880029,37.59635,Mulugeta Eshetu,+2519226948846,2025-07-04
+FOD-080,Boloso Sore,Basketo Zuria,Napier grass (Pennisetum purpureum),0.62,51,2023,6.866083,37.716236,Zewditu Assefa,+2519117370658,2024-10-13
+FOD-081,Boloso Sore,Areka Zuria,Napier grass (Pennisetum purpureum),2.67,23,2025,6.867505,37.687488,Zerihun Mesfin,+2519122271816,2023-01-18
+FOD-082,Boloso Bombe,Wollo Zuria,Leucaena leucocephala,1.97,108,2023,6.936207,37.995376,Selamawit Gebre,+2519174649875,2023-01-15
+FOD-083,Boloso Sore,Basketo,Brachiaria hybrid (Mulato II),2.28,85,2024,6.849091,37.727779,Tigist Alemayehu,+2519217799873,2022-11-07
+FOD-084,Kindo Didaye,Bela Zuria,Leucaena leucocephala,2.1,31,2023,6.660848,37.581905,Kassahun Alemayehu,+2519346689589,2025-07-28
+FOD-085,Kindo Koysha,Dogosso Zuria,Tree Lucerne (Chamaecytisus palmensis),0.34,73,2022,6.859125,37.653306,Askale Tsegaye,+2519626352903,2023-05-18
+FOD-086,Damot Gale,Waja Shoya,Rhodes grass (Chloris gayana),0.21,45,2025,7.067332,37.838163,Birhanu Birhanu,+2519710844806,2025-02-12
+FOD-087,Boloso Sore,Basketo,Napier grass (Pennisetum purpureum),2.66,92,2024,6.862384,37.710693,Daniel Hailu,+2519346939630,2023-02-02
+FOD-088,Damot Gale,Gara Godo,Tree Lucerne (Chamaecytisus palmensis),2.5,63,2022,7.044895,37.767999,Zenebech Gebre,+2519127742735,2022-11-09
+FOD-089,Sodo Zuria,Waja Shoya,Brachiaria hybrid (Mulato II),2.79,64,2023,6.93606,37.802935,Mahilet Zewde,+2519528372214,2024-10-25
+FOD-090,Boloso Sore,Gununa,Leucaena leucocephala,1.1,94,2023,6.880516,37.719664,Serkalem Yimer,+2519316958299,2022-01-17
+FOD-091,Damot Gale,Dubana,Sesbania sesban,0.51,68,2025,7.041227,37.798043,Wondimu Zewde,+2519610002160,2025-02-11
+FOD-092,Kindo Koysha,Dogosso,Susban (Stylosanthes guianensis),1.3,36,2022,6.792661,37.743169,Zenebech Tamirat,+2519188897465,2024-09-13
+FOD-093,Boloso Bombe,Fango,Napier grass (Pennisetum purpureum),1.44,71,2025,6.963214,37.938455,Tsegaye Girma,+2519269655882,2023-07-08
+FOD-094,Boloso Sore,Wara Giyorgis,Susban (Stylosanthes guianensis),0.55,93,2022,6.879318,37.724193,Yetemwork Yohannes,+2519256387280,2024-08-01
+FOD-095,Damot Gale,Wara Giyorgis,Brachiaria hybrid (Mulato II),0.51,23,2025,6.970523,37.795314,Dawit Teshome,+2519555101180,2024-05-15
+FOD-096,Offa,Wareza Zuria,Sesbania sesban,0.36,56,2024,6.892753,37.460002,Girma Kebede,+2519154336968,2024-10-10
+FOD-097,Boloso Sore,Chilamo,Sesbania sesban,2.48,78,2024,6.925423,37.739381,Tiruwork Desta,+2519226846803,2024-12-24
+FOD-098,Kindo Didaye,Kodo Zuria,Tree Lucerne (Chamaecytisus palmensis),1.01,74,2023,6.714353,37.687497,Daniel Melese,+2519322696837,2023-09-27
+FOD-099,Kindo Koysha,Dogosso,Tree Lucerne (Chamaecytisus palmensis),0.31,36,2022,6.752802,37.741704,Fitsum Endale,+2519189858279,2024-06-22
+FOD-100,Sodo Zuria,Sodo Zuria,Napier grass (Pennisetum purpureum),1.44,31,2023,6.819687,37.727023,Wubalem Teshome,+2519988109633,2022-09-13
+FOD-101,Kindo Koysha,Kodo,Rhodes grass (Chloris gayana),2.45,135,2024,6.754581,37.591575,Desta Tamirat,+2519750271175,2023-02-11
+FOD-102,Boloso Bombe,Fango Zuria,Tree Lucerne (Chamaecytisus palmensis),0.78,64,2023,6.972269,37.86267,Wubalem Hailu,+2519691371794,2023-05-20
+FOD-103,Damot Gale,Demboya,Susban (Stylosanthes guianensis),2.46,75,2025,6.9534,37.940635,Liya Mesfin,+2519336986965,2022-02-24
+FOD-104,Sodo Zuria,Waraza Lasho,Tree Lucerne (Chamaecytisus palmensis),1.66,88,2022,6.818908,37.875434,Askale Worku,+2519689086584,2025-08-22
+FOD-105,Sodo Zuria,Zala Shasha,Napier grass (Pennisetum purpureum),0.59,131,2024,6.924834,37.74742,Hailu Berhanu,+2519910876224,2022-10-25
+FOD-106,Boloso Sore,Woshi Gale,Rhodes grass (Chloris gayana),0.26,84,2025,6.872361,37.796555,Tesfaye Assefa,+2519960035317,2025-04-26
+FOD-107,Damot Gale,Gara Godo,Napier grass (Pennisetum purpureum),2.73,82,2024,6.998644,37.907425,Worku Wondimu,+2519620400141,2025-01-30
+FOD-108,Boloso Sore,Woshi Gale,Napier grass (Pennisetum purpureum),0.23,91,2025,6.920639,37.712597,Almaz Birhanu,+2519629264653,2024-04-11
+FOD-109,Humbo,Demba Koysha Zuria,Leucaena leucocephala,2.45,121,2023,6.732409,37.831819,Tadesse Worku,+2519923263929,2022-02-27
+FOD-110,Damot Pulasa,Shella Borkoshe,Tree Lucerne (Chamaecytisus palmensis),0.16,22,2024,7.036834,38.008331,Girma Desta,+2519394934155,2024-06-05
+FOD-111,Offa,Kercheche Zuria,Rhodes grass (Chloris gayana),1.86,25,2025,6.879248,37.555333,Girma Wondimu,+2519190382915,2022-09-29
+FOD-112,Sodo Zuria,Waraza Lasho,Rhodes grass (Chloris gayana),2.52,33,2023,6.877983,37.897599,Hirut Fekadu,+2519350035073,2024-04-18
+FOD-113,Boloso Bombe,Ajora,Rhodes grass (Chloris gayana),0.66,85,2022,6.890995,37.9372,Habtamu Kebede,+2519588447489,2024-08-14
+FOD-114,Damot Pulasa,Shanto Zuria,Tree Lucerne (Chamaecytisus palmensis),1.34,90,2023,6.987007,37.875432,Yohannes Tsegaye,+2519723952941,2023-01-16
+FOD-115,Boloso Sore,Shasha Gale,Susban (Stylosanthes guianensis),0.19,48,2024,6.846137,37.781471,Mesfin Birhanu,+2519544865327,2024-12-08
+FOD-116,Damot Gale,Woshi Gale,Desho grass (Pennisetum pedicellatum),2.03,77,2022,6.946906,37.866749,Firehiwot Endale,+2519471515125,2023-04-06
+FOD-117,Damot Pulasa,Wosh Gale Zuria,Napier grass (Pennisetum purpureum),0.83,102,2023,6.967279,38.013218,Serkalem Mamo,+2519646343231,2023-04-26
+FOD-118,Damot Gale,Zala,Sesbania sesban,1.38,61,2024,7.020832,37.784267,Liya Berhanu,+2519532830802,2024-02-26
+FOD-119,Offa,Gera Zuria,Sesbania sesban,1.25,64,2022,6.8009,37.637554,Endale Desta,+2519333819983,2025-07-29
+FOD-120,Damot Gale,Dubana,Susban (Stylosanthes guianensis),2.61,56,2022,6.979732,37.754708,Etsehiwot Mamo,+2519948418088,2024-07-17
+FOD-121,Sodo Zuria,Wara Giyorgis,Rhodes grass (Chloris gayana),0.21,111,2022,6.836805,37.767125,Tsegaye Tadesse,+2519656151228,2025-06-10
+FOD-122,Kindo Koysha,Kucha Zuria,Tree Lucerne (Chamaecytisus palmensis),2.42,82,2022,6.849854,37.637436,Tiruwork Abebe,+2519235624695,2022-03-14
+FOD-123,Damot Gale,Shento Zuria,Susban (Stylosanthes guianensis),1.92,124,2023,6.972996,37.851981,Worku Wondimu,+2519391821462,2025-09-04
+FOD-124,Boloso Bombe,Dubana Zuria,Napier grass (Pennisetum purpureum),2.16,40,2022,6.987772,37.882095,Zerihun Hailu,+2519925566901,2025-01-03
+FOD-125,Humbo,Zaba,Leucaena leucocephala,0.54,76,2024,6.680757,37.801272,Desta Yimer,+2519275852038,2025-10-20
+FOD-126,Sodo Zuria,Basketo Zuria,Sesbania sesban,2.35,101,2022,6.814014,37.774554,Tiruwork Tadesse,+2519220086381,2023-01-26
+FOD-127,Humbo,Sere Tawurata,Leucaena leucocephala,0.92,18,2025,6.802161,37.84744,Almaz Mamo,+2519633582488,2022-04-06
+FOD-128,Offa,Wareza Zuria,Leucaena leucocephala,1.82,38,2022,6.835606,37.506557,Serkalem Gebre,+2519117938232,2023-05-20
+FOD-129,Boloso Sore,Keleta,Brachiaria hybrid (Mulato II),1.6,72,2023,6.842581,37.733341,Firehiwot Lemma,+2519251211112,2025-09-30
+FOD-130,Offa,Gera,Napier grass (Pennisetum purpureum),1.36,114,2023,6.93201,37.551511,Daniel Eshetu,+2519839246667,2025-06-02
+FOD-131,Damot Pulasa,Bela,Susban (Stylosanthes guianensis),2.25,109,2024,7.035164,37.912711,Worku Abebe,+2519272322494,2024-09-12
+FOD-132,Boloso Sore,Chilamo,Napier grass (Pennisetum purpureum),0.29,122,2025,6.825543,37.789734,Zerihun Lemma,+2519590976110,2025-06-14
+FOD-133,Boloso Bombe,Haddaro Mola Zuria,Napier grass (Pennisetum purpureum),0.68,77,2024,6.944332,37.913449,Desta Yimer,+2519453404052,2025-03-01
+FOD-134,Kindo Didaye,Dara Zuria,Desho grass (Pennisetum pedicellatum),0.78,52,2022,6.722667,37.604609,Bizunesh Endale,+2519347450161,2022-05-23
+FOD-135,Humbo,Bendo,Rhodes grass (Chloris gayana),2.77,107,2025,6.780359,37.676151,Zenebech Gebre,+2519445058473,2023-11-16
+FOD-136,Boloso Sore,Woshi,Napier grass (Pennisetum purpureum),0.24,81,2025,6.930017,37.789007,Bekele Yimer,+2519566108929,2023-05-21
+FOD-137,Damot Pulasa,Gara,Tree Lucerne (Chamaecytisus palmensis),0.2,66,2024,7.070638,37.989541,Tsegaye Alemayehu,+2519222108860,2025-01-05
+FOD-138,Damot Pulasa,Shama Kodo,Leucaena leucocephala,0.69,108,2023,7.03252,38.035706,Mulugeta Kassahun,+2519918163773,2022-09-17
+FOD-139,Boloso Sore,Chilamo,Rhodes grass (Chloris gayana),1.95,108,2025,6.929526,37.74349,Yetemwork Getachew,+2519142863731,2024-09-26
+FOD-140,Boloso Bombe,Haddaro Mola Zuria,Rhodes grass (Chloris gayana),2.16,49,2022,6.888864,37.812792,Birtukan Eshetu,+2519772620648,2024-01-04
+FOD-141,Damot Gale,Bossa,Desho grass (Pennisetum pedicellatum),0.47,76,2022,7.068903,37.773425,Konjit Desta,+2519958048881,2023-12-11
+FOD-142,Humbo,Demba Koysha Zuria,Sesbania sesban,1.48,102,2025,6.812332,37.696386,Genet Teshome,+2519248251683,2024-10-13
+FOD-143,Boloso Sore,Gara,Susban (Stylosanthes guianensis),1.23,33,2025,6.880462,37.744974,Almaz Melese,+2519843049520,2024-12-23
+FOD-144,Damot Gale,Kodo,Brachiaria hybrid (Mulato II),2.64,122,2025,7.045959,37.83267,Tesfaye Gebre,+2519881670128,2024-01-20
+FOD-145,Kindo Didaye,Shama,Desho grass (Pennisetum pedicellatum),0.34,101,2024,6.63401,37.637671,Amanuel Assefa,+2519281608011,2022-05-20
+FOD-146,Boloso Sore,Gara,Rhodes grass (Chloris gayana),1.59,62,2022,6.921322,37.722939,Berhanu Gebre,+2519512549218,2025-06-13
+FOD-147,Boloso Bombe,Ajora Zuria,Brachiaria hybrid (Mulato II),2.48,134,2024,6.943345,37.900731,Yeshi Birhanu,+2519699821123,2024-06-20
+FOD-148,Boloso Sore,Homba,Tree Lucerne (Chamaecytisus palmensis),1.86,94,2024,6.944928,37.656096,Desta Gebre,+2519721585056,2025-03-13
+FOD-149,Kindo Koysha,Bello Zuria,Rhodes grass (Chloris gayana),1.86,117,2024,6.839851,37.679768,Yeshi Mamo,+2519961545915,2023-03-25
+FOD-150,Damot Pulasa,Bela,Brachiaria hybrid (Mulato II),1.56,66,2025,6.954394,37.949745,Almaz Abebe,+2519792316258,2022-03-06
+FOD-151,Boloso Bombe,Dubana,Sesbania sesban,1.02,22,2022,6.956517,37.936297,Etsehiwot Tadesse,+2519999233587,2025-06-15
+FOD-152,Boloso Sore,Gununa,Sesbania sesban,0.72,127,2025,6.865543,37.708175,Tadesse Birhanu,+2519274119294,2025-06-21
+FOD-153,Sodo Zuria,Zala Shasha,Susban (Stylosanthes guianensis),2.36,122,2025,6.805366,37.756863,Hailu Tamirat,+2519324722646,2023-01-14
+FOD-154,Boloso Bombe,Bombe,Napier grass (Pennisetum purpureum),1.57,124,2023,6.990572,37.955942,Lemlem Assefa,+2519997820251,2023-04-14
+FOD-155,Damot Gale,Gacheno,Napier grass (Pennisetum purpureum),0.53,81,2024,6.938544,37.927979,Fitsum Tamirat,+2519990255414,2024-07-18
+FOD-156,Sodo Zuria,Kodo Gawulia,Brachiaria hybrid (Mulato II),2.48,42,2025,6.821677,37.771927,Mahilet Teshome,+2519557699339,2023-07-06
+FOD-157,Damot Pulasa,Ade Damota Zuria,Leucaena leucocephala,0.31,100,2024,7.079243,37.880274,Birtukan Desta,+2519690194714,2024-03-31
+FOD-158,Damot Gale,Shanto,Napier grass (Pennisetum purpureum),0.87,35,2022,6.998662,37.921059,Hirut Lemma,+2519382810600,2025-03-29
+FOD-159,Kindo Koysha,Bosa Zuria,Rhodes grass (Chloris gayana),2.28,116,2024,6.782727,37.667176,Tiruwork Melese,+2519545483417,2024-09-16
+FOD-160,Kindo Koysha,Bosa Zuria,Desho grass (Pennisetum pedicellatum),1.74,77,2025,6.844533,37.71421,Girma Lemma,+2519311922146,2025-05-08
+FOD-161,Damot Pulasa,Bela Zuria,Desho grass (Pennisetum pedicellatum),1.77,85,2022,6.988521,37.845138,Almaz Tadesse,+2519970072553,2022-08-25
+FOD-162,Sodo Zuria,Gununa,Napier grass (Pennisetum purpureum),1.41,26,2023,6.862748,37.833071,Zewditu Desta,+2519340322048,2022-08-11
+FOD-163,Offa,Kercheche Zuria,Tree Lucerne (Chamaecytisus palmensis),1.81,116,2022,6.90675,37.617933,Serkalem Gebre,+2519393550019,2022-01-11
+FOD-164,Humbo,Demba Koysha,Sesbania sesban,0.84,19,2023,6.797231,37.652789,Kebede Tadesse,+2519819136001,2024-09-03
+FOD-165,Offa,Shafe Zuria,Sesbania sesban,2.53,55,2024,6.803028,37.529416,Fantanesh Mamo,+2519777671330,2024-08-16
+FOD-166,Damot Gale,Gununa,Napier grass (Pennisetum purpureum),1.75,48,2023,6.976069,37.799883,Yeshi Tsegaye,+2519969431411,2023-02-14
+FOD-167,Damot Pulasa,Zaba Zuria,Desho grass (Pennisetum pedicellatum),2.22,32,2022,6.984166,37.863336,Getachew Kassahun,+2519229977395,2024-08-27
+FOD-168,Damot Gale,Ade Damota,Brachiaria hybrid (Mulato II),1.81,103,2025,7.060564,37.923946,Askale Worku,+2519651287885,2024-05-11
+FOD-169,Sodo Zuria,Shasha,Desho grass (Pennisetum pedicellatum),0.97,115,2024,6.836277,37.84034,Assefa Tadesse,+2519235216152,2025-03-27
+FOD-170,Damot Gale,Dolo,Rhodes grass (Chloris gayana),2.01,44,2023,6.992748,37.774111,Endale Eshetu,+2519375723475,2024-10-20
+FOD-171,Humbo,Demba Koysha,Susban (Stylosanthes guianensis),1.38,109,2023,6.775733,37.695026,Kassahun Fekadu,+2519513487632,2025-08-31
+FOD-172,Damot Gale,Wosh Gale,Sesbania sesban,0.48,107,2022,6.962531,37.851843,Selamawit Lemma,+2519875699446,2024-01-24
+FOD-173,Humbo,Shochora Gola Zuria,Napier grass (Pennisetum purpureum),2.79,60,2024,6.723416,37.780886,Aster Worku,+2519572996845,2024-09-27
+FOD-174,Boloso Sore,Gacheno Zuria,Leucaena leucocephala,0.75,32,2024,6.844054,37.691984,Serkalem Berhanu,+2519541241898,2022-07-05
+FOD-175,Damot Pulasa,Gara Zuria,Tree Lucerne (Chamaecytisus palmensis),0.64,63,2023,7.012742,37.999333,Hailu Worku,+2519796931005,2024-06-15
+FOD-176,Boloso Bombe,Gara,Tree Lucerne (Chamaecytisus palmensis),2.79,110,2024,6.916264,37.917993,Tadesse Yimer,+2519488810234,2023-06-22
+FOD-177,Damot Gale,Bossa,Susban (Stylosanthes guianensis),1.64,33,2025,6.983635,37.879297,Desta Zewde,+2519162054681,2023-06-13
+FOD-178,Kindo Koysha,Belela,Napier grass (Pennisetum purpureum),0.61,32,2023,6.773302,37.557247,Desta Tsegaye,+2519618449508,2023-11-04
+FOD-179,Sodo Zuria,Shasha,Leucaena leucocephala,2.22,113,2024,6.804608,37.715938,Lemlem Mesfin,+2519297770894,2024-06-12
+FOD-180,Damot Gale,Gara Godo,Sesbania sesban,2.42,61,2025,6.929118,37.924541,Daniel Teshome,+2519343314086,2024-06-13
